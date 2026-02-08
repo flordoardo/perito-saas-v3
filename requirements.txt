@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-docx
+docxtpl
+pdfplumber
+pandas
+streamlit-option-menu
